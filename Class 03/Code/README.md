@@ -6,6 +6,8 @@
                 ---
                 print("Hello World")
                 ---
+                ![Step 1]()
+                
 
 ## Step2: Create physical file filename.py
 * Create your directly (Folder)
