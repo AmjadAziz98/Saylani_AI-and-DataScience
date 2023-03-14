@@ -6,7 +6,7 @@
                 ---
                 print("Hello World")
                 ---
-                ![Step 1](https://github.com/AmjadAziz98/Saylani_AI-and-DataScience/blob/main/Class%2003/Code/step1.png)
+                ![](https://github.com/AmjadAziz98/Saylani_AI-and-DataScience/blob/main/Class%2003/Code/step1.png)
                 
 
 ## Step2: Create physical file filename.py
