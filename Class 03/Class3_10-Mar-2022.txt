@@ -1,0 +1,15 @@
+Compiler (Whole translation)
+Interpreter (Line by line) 
+Transpiler ()-----???
+
+Assignement: Compiler Vs Interpreter 5 points
+print Hello world from 6 IDEs
+
+Name Entity Recognition
+Conda Installation
+	Install for all users
+	Check Environment path
+IDE gives
+Data Science project has to be done on Jupyter (ideal) or VS code
+Google Colab
+Amazon Sagemaker
